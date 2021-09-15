@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: #1b1b1b;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg1 {
+    background-color: #1b1b1b;
+    padding: 24px;
+    text-align: center;
+}
+
+.main-heading {
+    color: white;
+    font-family: "Bree serif";
+    font-size: 23px;
+    font-weight: 500;
+    padding: 18px;
+}
+
+.main-container {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.image {
+    height: 200px;
+    width: 120px;
+}
+
+.image1 {
+    height: 190px;
+    width: 110px;
+}
+
+.main-card {
+    padding: 10px;
+}
+
+.card-name1 {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 15px;
+}
+
+.card-name2 {
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.card-name3 {
+    font-family: "Bree Serif";
+    font-size: 10px;
+    color: #183b56;
+
+}
+
+.recommend-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    padding: 10px;
+}
+
+.more-book-card {
+    background-color: #1b1b1b;
+    margin: 5px;
+}
+
+.card-names1 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.card-names2 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.abc {
+    padding: 8px;
+}
+
+.image-wings {
+    height: 250px;
+    width: 150px;
+}
+
+.c-wings {
+    text-align: center;
+    padding: 25px;
+}
+
+.wings-head {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 10px;
+}
+
+.author {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.author-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.para-type {
+    padding: 10px;
+}
+
+.button {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+}
